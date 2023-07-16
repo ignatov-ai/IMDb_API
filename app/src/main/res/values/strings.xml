@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IMDb_API</string>
+    <string name="searchFieldHint">Название фильма</string>
+    <string name="searchButtonText">Найти</string>
+</resources>
